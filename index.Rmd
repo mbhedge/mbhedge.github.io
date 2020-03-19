@@ -1,0 +1,11 @@
+---
+title: "1st website"
+author: "MHedge"
+date: "3/19/2020"
+output: html_document
+---
+
+# 1st website example from class
+## Note: the six lines above are the YAML tags
+### We will knit this RMD file to a HTML
+Then push index.html to github.io repo
